@@ -20,6 +20,7 @@ The core objective is to minimize the Root Mean Squared Error (RMSE) on the Netf
 - [Challenges Addressed](#challenges-addressed)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Datasets](#datasets)
+- [Credits](#credits)
 
 ## Introduction
 
@@ -87,3 +88,8 @@ The performance of the models is evaluated using the following metrics:
 * **CiteULike:** Used for evaluating the CDL model on article recommendations.
 * **MovieLens & Pinterest:** Used for benchmarking the NCF and NeuMF models.
 
+## Credits
+
+**Authors:** Parniyan Malekzadeh, Alireza Samimi, Alireza Tanha, Pooria Dianati, Soheil Saraiean
+**Supervisor:** Dr. Manshaei  
+**Institution:** Isfahan University of Technology 
